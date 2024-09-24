@@ -8,12 +8,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMnlqeLymGUKl70eXphoCo0nRSBZXBe4Q",
-  authDomain: "calculator-3be51.firebaseapp.com",
-  projectId: "calculator-3be51",
-  storageBucket: "calculator-3be51.appspot.com",
-  messagingSenderId: "749289470575",
-  appId: "1:749289470575:web:ccef52b0c15ff0357b2b9a"
+ 
 };
 
 // Initialize Firebase
